@@ -2,4 +2,6 @@
 
 Python programming learning, tips and tricks codes.
 
-contributions and suggestions aer most welcome  
+Contributions and code suggestions, developent are most welcome.
+
+
