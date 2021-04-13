@@ -1,4 +1,4 @@
-# Python Tips
+### Python Tips
 
 Python programming learning, tips and tricks.
 
