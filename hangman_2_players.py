@@ -1,3 +1,4 @@
+# Original code from https://gist.github.com/Petersonp
 import sys
 import getpass
 def hangman():
