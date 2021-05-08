@@ -1,7 +1,7 @@
 ### Python Tips
 
-Python programming learning, tips and tricks.
+Python programming tips and tricks.
 
-Contributions, code suggestions or development are most welcome.
+Contributions are most welcome.
 
 
