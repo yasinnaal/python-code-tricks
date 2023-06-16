@@ -144,103 +144,104 @@ while fizzbuzz <= 100:
   fizzbuzz += 1
   
   ```
- 1
-2
-Fiz
-4
-Buzz
-Fiz
-7
-8
-Fiz
-Buzz
-11
-Fiz
-13
-14
-FizzBuzz
-16
-17
-Fiz
-19
-Buzz
-Fiz
-22
-23
-Fiz
-Buzz
-26
-Fiz
-28
-29
-FizzBuzz
-31
-32
-Fiz
-34
-Buzz
-Fiz
-37
-38
-Fiz
-Buzz
-41
-Fiz
-43
-44
-FizzBuzz
-46
-47
-Fiz
-49
-Buzz
-Fiz
-52
-53
-Fiz
-Buzz
-56
-Fiz
-58
-59
-FizzBuzz
-61
-62
-Fiz
-64
-Buzz
-Fiz
-67
-68
-Fiz
-Buzz
-71
-Fiz
-73
-74
-FizzBuzz
-76
-77
-Fiz
-79
-Buzz
-Fiz
-82
-83
-Fiz
-Buzz
-86
-Fiz
-88
-89
-FizzBuzz
-91
-92
-Fiz
-94
-Buzz
-Fiz
-97
-98
-Fiz
-Buzz
+
+1 <br>
+2 <br>
+Fiz <br>
+4 <br>
+Buzz <br>
+Fiz <br>
+7 <br>
+8 <br>
+Fiz <br>
+Buzz <br>
+11 <br>
+Fiz <br>
+13 <br>
+14 <br>
+FizzBuzz <br>
+16 <br>
+17 <br>
+Fiz <br>
+19 <br>
+Buzz <br>
+Fiz <br>
+22 <br>
+23 <br>
+Fiz <br>
+Buzz <br>
+26 <br>
+Fiz <br>
+28 <br>
+29 <br>
+FizzBuzz <br>
+31 <br>
+32 <br>
+Fiz <br>
+34 <br>
+Buzz <br>
+Fiz <br>
+37 <br>
+38 <br>
+Fiz <br>
+Buzz <br>
+41 <br>
+Fiz <br>
+43 <br>
+44 <br>
+FizzBuzz <br>
+46 <br>
+47 <br>
+Fiz <br>
+49 <br>
+Buzz <br>
+Fiz <br>
+52 <br>
+53 <br>
+Fiz <br>
+Buzz <br>
+56 <br>
+Fiz <br>
+58 <br>
+59 <br>
+FizzBuzz <br>
+61 <br>
+62 <br>
+Fiz <br>
+64 <br>
+Buzz <br>
+Fiz <br>
+67 <br>
+68 <br>
+Fiz <br>
+Buzz <br>
+71 <br>
+Fiz <br>
+73 <br>
+74 <br>
+FizzBuzz <br>
+76 <br>
+77 <br>
+Fiz <br>
+79 <br>
+Buzz <br>
+Fiz <br>
+82 <br>
+83 <br>
+Fiz <br>
+Buzz <br>
+86 <br>
+Fiz <br>
+88 <br>
+89 <br>
+FizzBuzz <br>
+91 <br>
+92 <br>
+Fiz <br>
+94 <br>
+Buzz <br>
+Fiz <br>
+97 <br>
+98 <br>
+Fiz <br>
+Buzz <br>
