@@ -123,9 +123,26 @@ Result:
 
 The "Fizz Buzz" Challenge is an interview question designed to help filter out a lot of programming job candidates.
 
-Write a program that prints the numbers from 1 to 100,
+Write a program that prints the numbers from 1 to 100:
 
 - For multiples of three print “Fizz” instead of the number
 - For the multiples of five print “Buzz”.
 - For numbers which are multiples of both three and five print “FizzBuzz”."
-- 
+
+```
+
+fizzbuzz = 1
+while fizzbuzz <= 100:
+  if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
+        print("FizzBuzz")
+  elif fizzbuzz % 3 == 0:
+        print("Fiz")
+  elif fizzbuzz % 5 == 0:
+        print("Buzz")
+  else:
+        print(fizzbuzz)
+  fizzbuzz += 1
+  
+  ```
+  
+
