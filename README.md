@@ -17,6 +17,9 @@ Jupyter: https://jupyter.org
 
 ### Check similarity of two images
 
+("https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
+
+
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
 ```python
