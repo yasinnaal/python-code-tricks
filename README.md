@@ -9,6 +9,8 @@ Anaconda: https://www.anaconda.com/products/individual
 
 Jupyter: https://jupyter.org
 
+---
+
 ### Check similarity of two images
 
 
