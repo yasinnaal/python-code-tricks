@@ -20,7 +20,7 @@ Jupyter: https://jupyter.org
 
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
-```
+```python
 from PIL import Image
 import imagehash
 hash1 = imagehash.average_hash(Image.open('bike.jpg')) 
@@ -94,4 +94,4 @@ image1 average hash value: 00189c1e1fb4e080 <br>
 image1 average hash value: 00189c1e1fb4e080 <br>
 MATCH -images are similar. <br>
 
-image1 average hash value:
+Thanks!.
