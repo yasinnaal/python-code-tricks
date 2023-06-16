@@ -17,9 +17,8 @@ Jupyter: https://jupyter.org
 
 ### Check similarity of two images
 
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+<code style="color : red">text</code>
 
-$${\color{red}Red}$$	
 
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
