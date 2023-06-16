@@ -17,9 +17,6 @@ Jupyter: https://jupyter.org
 
 ### Check similarity of two images
 
-<code style="color : red">text</code>
-
-
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
 ```python
@@ -96,4 +93,3 @@ image1 average hash value: 00189c1e1fb4e080 <br>
 image1 average hash value: 00189c1e1fb4e080 <br>
 MATCH -images are similar. <br>
 
-Thanks!.
