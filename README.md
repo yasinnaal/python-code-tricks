@@ -246,7 +246,8 @@ Buzz <br>
 
 ---
 
-Difference between == and = in Python
+### Difference between == and = in Python
+
 In Python and many other programming languages, a single equal mark is used to assign a value to a variable, whereas two consecutive equal marks is used to check whether 2 expressions give the same value .
 
 = is an assignment operator
