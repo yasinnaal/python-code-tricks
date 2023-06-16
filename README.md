@@ -1,4 +1,4 @@
-# Python (Tips. Tricks. Examples)
+# Code Python
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
