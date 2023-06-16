@@ -35,7 +35,6 @@ else:
   print('image1 average hash value:', hash1)
   print('image2 average hash value:', hash2)    
   print('NO MATCH - images are not similar !.')
-  
 ```  
 Result:<br>
 image1 average hash value: fffff704808390fe<br>
@@ -60,7 +59,6 @@ else:
   print('image1 average hash value:', hash1)
   print('image2 average hash value:', hash2)    
   print('NO MATCH - images are not similar !.')
-
 ```
 Result:<br>
 image1 average hash value: 00189c1e1fb4e080 <br>
@@ -91,7 +89,6 @@ Result:<br>
 image1 average hash value: 00189c1e1fb4e080 <br>
 image1 average hash value: 00189c1e1fb4e080 <br>
 MATCH -images are similar. <br>
-
 ---
 
 ### Draw using Python
@@ -129,6 +126,9 @@ Write a program that prints the numbers from 1 to 100:
 - For the multiples of five print “Buzz”.
 - For numbers which are multiples of both three and five print “FizzBuzz”."
 
+#### Using the Modulo Operator %
+I will use the % operator, When you see the % symbol you may think "percent" But in Python The % symbol is called the **Modulo Operator**. It returns the remainder of dividing the left hand operand by right hand operand. It's used to get the remainder of a division problem.
+
 ```
 n = 1
 while n <= 100:
@@ -141,7 +141,6 @@ while n <= 100:
   else:
         print(n)
   n += 1
-  
   ```
 
 1 <br>
