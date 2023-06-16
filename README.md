@@ -5,8 +5,9 @@
 
 Python programming tips and tricks. Contributions are most welcomed.
 
-Anaconda: https://www.anaconda.com/products/individual <br>
-Jupyter: https://jupyter.org <br>
+Anaconda: https://www.anaconda.com/products/individual
+
+Jupyter: https://jupyter.org 
 
 ---
 
