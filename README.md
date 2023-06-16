@@ -14,8 +14,8 @@ Jupyter: https://jupyter.org
 ```
 from PIL import Image
 import imagehash
-hash1 = imagehash.average_hash(Image.open('/kaggle/input/myimages/bike.jpg')) 
-hash2 = imagehash.average_hash(Image.open('/kaggle/input/myimages/bike.jpg')) 
+hash1 = imagehash.average_hash(Image.open('bike.jpg')) 
+hash2 = imagehash.average_hash(Image.open('bike.jpg')) 
 cutoff = 5
 
 if hash1 - hash2 < cutoff:
