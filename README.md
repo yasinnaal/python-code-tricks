@@ -42,6 +42,8 @@ image1 average hash value: fffff704808390fe<br>
 image2 average hash value: fffff704808390fe<br>
 MATCH -images are similar.<br>
 
+---
+
 <img src="https://github.com/yasinnaal/images/blob/main/bp_reuslt.png?raw=true">
 
 ```
@@ -71,6 +73,7 @@ image1 average hash value: 00189c1e1fb4e080 <br>
 image2 average hash value: fffff704808390fe <br>
 NO MATCH - images are not similar !. <br>
 
+---
 
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
