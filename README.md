@@ -11,6 +11,8 @@ Jupyter: https://jupyter.org
 
 ### Check similarity of two images
 
+![Demo](doc/1.jpg)
+
 ```
 from PIL import Image
 import imagehash
