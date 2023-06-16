@@ -29,6 +29,6 @@ else:
   print('NO MATCH - images are not similar !.')
   
 ```  
-image1 average hash value: fffff704808390fe
-image2 average hash value: fffff704808390fe
-MATCH -images are similar.
+image1 average hash value: fffff704808390fe<br>
+image2 average hash value: fffff704808390fe<br>
+MATCH -images are similar.<br>
