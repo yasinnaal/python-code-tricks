@@ -17,7 +17,7 @@ Jupyter: https://jupyter.org
 
 ### Check similarity of two images
 
-#c5f015 dddddddd
+# c5f015 dddddddd
 
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
