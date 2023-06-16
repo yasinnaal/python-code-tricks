@@ -11,11 +11,8 @@ Jupyter: https://jupyter.org
 
 ### Check similarity of two images
 
-![Demo]([/images/bike.jpg]
 
-
-
-<img src="https://github.com/yasinnaal/images/blob/main/bike.jpg?raw=true">
+<img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
 
 ```
