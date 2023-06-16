@@ -1,4 +1,4 @@
-# Code Python
+# Code Python (Easy Python)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
@@ -18,9 +18,6 @@ Jupyter: https://jupyter.org
 ### Check similarity of two images
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
-
-
-<img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
 ```python
 from PIL import Image
@@ -46,7 +43,7 @@ image2 average hash value: fffff704808390fe<br>
 
 ---
 
-<img src="https://github.com/yasinnaal/images/blob/main/bp_reuslt.png?raw=true">
+![anytext](https://github.com/yasinnaal/images/blob/main/bp_reuslt.png)
 
 ```
 from PIL import Image
@@ -72,7 +69,7 @@ NO MATCH - images are not similar !. <br>
 
 ---
 
-<img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
+![anytext](https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
 
 ```
 from PIL import Image
