@@ -69,7 +69,7 @@ NO MATCH - images are not similar !. <br>
 
 ---
 
-![anytext](https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
+![anytext](https://github.com/yasinnaal/images/blob/main/pp_reuslt.png)
 
 ```
 from PIL import Image
