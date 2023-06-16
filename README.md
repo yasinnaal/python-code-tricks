@@ -17,11 +17,7 @@ Jupyter: https://jupyter.org
 
 ### Check similarity of two images
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+#c5f015 dddddddd
 
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
