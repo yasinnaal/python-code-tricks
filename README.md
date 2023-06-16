@@ -93,3 +93,23 @@ image1 average hash value: 00189c1e1fb4e080 <br>
 image1 average hash value: 00189c1e1fb4e080 <br>
 MATCH -images are similar. <br>
 
+### Draw using Python
+
+```
+def DrawBoard(rows,cols):
+    dash = " ---"
+    hline = "|   "
+    for i in range(0,rows):       
+            print (dash * (cols))
+            print (hline * (cols +1))     
+
+DrawBoard(3, 3)
+
+```
+
+ --- --- ---
+|   |   |   |
+ --- --- ---
+|   |   |   |
+ --- --- ---
+|   |   |   |
