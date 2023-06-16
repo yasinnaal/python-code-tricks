@@ -12,7 +12,11 @@ Jupyter: https://jupyter.org
 ### Check similarity of two images
 
 ![Demo]([https://github.com/yasinnaal/images/blob/main/bike.jpg]
+
 https://github.com/yasinnaal/images/blob/main/bike.jpg
+
+<img src="https://github.com/yasinnaal/images/blob/main/github_logo.png?raw=true">
+
 
 ```
 from PIL import Image
