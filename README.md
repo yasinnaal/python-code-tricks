@@ -41,7 +41,6 @@ image1 average hash value: fffff704808390fe<br>
 image2 average hash value: fffff704808390fe<br>
 + MATCH -images are similar.<br>
 
----
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/bp_reuslt.png)
 
@@ -67,7 +66,6 @@ image1 average hash value: 00189c1e1fb4e080 <br>
 image2 average hash value: fffff704808390fe <br>
 NO MATCH - images are not similar !. <br>
 
----
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/pp_reuslt.png)
 
@@ -92,6 +90,8 @@ else:
 image1 average hash value: 00189c1e1fb4e080 <br>
 image1 average hash value: 00189c1e1fb4e080 <br>
 MATCH -images are similar. <br>
+
+---
 
 ### Draw using Python
 
