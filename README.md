@@ -116,6 +116,17 @@ z=20
 
 A number which is not divisible by "2" is called an odd number. An odd numbers of multi digits always ends in 1, 3, 5, 7, or 9. Examples of odd numbers: 51 , − 543 , 8765 , − 97 , 9 , etc
 
+```
+for number in range(1, 10):
+    if(number % 2 != 0):
+        print(number)
+```
+1<br>
+3<br>
+5<br>
+7<br>
+9<br>
+
 ---
 
 ### Draw using Python
