@@ -243,3 +243,22 @@ Fiz <br>
 98 <br>
 Fiz <br>
 Buzz <br>
+
+---
+
+Difference between == and = in Python
+In Python and many other programming languages, a single equal mark is used to assign a value to a variable, whereas two consecutive equal marks is used to check whether 2 expressions give the same value .
+
+= is an assignment operator
+
+== is an equality operator
+
+```
+x=10
+y=20
+z=20
+
+(x==y) is False because we assigned different values to x and y.
+
+(y==z) is True because we assign equal values to y and z.
+```
