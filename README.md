@@ -19,6 +19,7 @@ Jupyter: https://jupyter.org
 
 Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
 
+$${\color{red}Red}$$	
 
 <img src="https://github.com/yasinnaal/images/blob/main/bb_reuslt.png?raw=true">
 
