@@ -1,4 +1,4 @@
-# Code Python (Easy Python)
+# Code Python (Easy)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
@@ -19,7 +19,7 @@ Jupyter: https://jupyter.org
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
 
-```python
+```
 from PIL import Image
 import imagehash
 hash1 = imagehash.average_hash(Image.open('bike.jpg')) 
