@@ -90,8 +90,8 @@ else:
   
 ```
 
-image1 average hash value: 00189c1e1fb4e080
-image1 average hash value: 00189c1e1fb4e080
-MATCH -images are similar.
+image1 average hash value: 00189c1e1fb4e080 <br>
+image1 average hash value: 00189c1e1fb4e080 <br>
+MATCH -images are similar. <br>
 
 image1 average hash value:
