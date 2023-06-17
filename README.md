@@ -15,7 +15,7 @@ Jupyter: https://jupyter.org
 
 ---
 
-### Check similarity of two images
+### Check two images similarity
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
 
