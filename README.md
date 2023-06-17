@@ -35,7 +35,7 @@ if hash1 - hash2 < cutoff:
 else:
   print('image1 average hash value:', hash1)
   print('image2 average hash value:', hash2)    
-  print('NO MATCH - images are not similar !.')
+  print('NO MATCH - images are not similar !')
 ```  
 <br>
 image1: fffff704808390fe<br>
