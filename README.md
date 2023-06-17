@@ -63,8 +63,8 @@ else:
   print('NO MATCH - images are not similar !.')
 ```
 Result:<br>
-image1 average hash value: 00189c1e1fb4e080 <br>
-image2 average hash value: fffff704808390fe <br>
+image1: 00189c1e1fb4e080 <br>
+image2: fffff704808390fe <br>
 NO MATCH - images are not similar ! <br><br>
 
 
