@@ -22,6 +22,7 @@ Jupyter: https://jupyter.org
 ```
 from PIL import Image
 import imagehash
+
 hash1 = imagehash.average_hash(Image.open('bike.jpg')) 
 hash2 = imagehash.average_hash(Image.open('bike.jpg')) 
 cutoff = 5
@@ -47,6 +48,7 @@ MATCH -images are similar.<br><br>
 ```
 from PIL import Image
 import imagehash
+
 hash1 = imagehash.average_hash(Image.open('panda.jpg')) 
 hash2 = imagehash.average_hash(Image.open('bike.jpg')) 
 cutoff = 5
@@ -71,6 +73,7 @@ NO MATCH - images are not similar ! <br><br>
 ```
 from PIL import Image
 import imagehash
+
 hash1 = imagehash.average_hash(Image.open('panda.jpg')) 
 hash2 = imagehash.average_hash(Image.open('panda.jpg')) 
 cutoff = 5
