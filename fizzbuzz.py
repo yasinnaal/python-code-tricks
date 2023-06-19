@@ -8,15 +8,14 @@ But for multiples of three print “Fizz” instead of the number
 and for the multiples of five print “Buzz”. 
 For numbers which are multiples of both three and five print “FizzBuzz”."
 """
-fizzbuzz = 1
-while fizzbuzz <= 100:
-  if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
+n = 1
+while n <= 100:
+  if n % 3 == 0 and n % 5 == 0:
         print("FizzBuzz")
-  elif fizzbuzz % 3 == 0:
+  elif n % 3 == 0:
         print("Fiz")
-  elif fizzbuzz % 5 == 0:
+  elif n % 5 == 0:
         print("Buzz")
   else:
-        print(fizzbuzz)
-  #print(fizzbuzz) "test"
-  fizzbuzz += 1
+        print(n)
+  n += 1
