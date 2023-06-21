@@ -19,7 +19,7 @@ Jupyter: https://jupyter.org
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
 
-```
+```python
 from PIL import Image
 import imagehash
 
@@ -45,7 +45,7 @@ MATCH -images are similar.<br><br>
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/bp_reuslt.png)
 
-```
+```python
 from PIL import Image
 import imagehash
 
@@ -70,7 +70,7 @@ NO MATCH - images are not similar ! <br><br>
 
 ![anytext](https://github.com/yasinnaal/images/blob/main/pp_reuslt.png)
 
-```
+```python
 from PIL import Image
 import imagehash
 
