@@ -39,7 +39,9 @@ else:
 ```  
 <br>
 image1: fffff704808390fe<br>
+
 image2: fffff704808390fe<br>
+
 MATCH -images are similar.<br><br>
 
 
@@ -64,7 +66,9 @@ else:
 ```
 <br>
 image1: 00189c1e1fb4e080 <br>
+
 image2: fffff704808390fe <br>
+
 NO MATCH - images are not similar ! <br><br>
 
 
@@ -90,6 +94,7 @@ else:
 ```
 <br>
 image1: 00189c1e1fb4e080 <br>
+
 image1: 00189c1e1fb4e080 <br>
 
 MATCH -images are similar <br><br>
